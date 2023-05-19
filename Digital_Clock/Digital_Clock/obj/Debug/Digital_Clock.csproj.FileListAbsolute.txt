@@ -1,0 +1,11 @@
+C:\Projects\C# Projects\Digital_Clock\Digital_Clock\bin\Debug\Digital_Clock.exe.config
+C:\Projects\C# Projects\Digital_Clock\Digital_Clock\bin\Debug\Digital_Clock.exe
+C:\Projects\C# Projects\Digital_Clock\Digital_Clock\bin\Debug\Digital_Clock.pdb
+C:\Projects\C# Projects\Digital_Clock\Digital_Clock\obj\Debug\Digital_Clock.csproj.AssemblyReference.cache
+C:\Projects\C# Projects\Digital_Clock\Digital_Clock\obj\Debug\Digital_Clock.csproj.SuggestedBindingRedirects.cache
+C:\Projects\C# Projects\Digital_Clock\Digital_Clock\obj\Debug\Digital_Clock.Form1.resources
+C:\Projects\C# Projects\Digital_Clock\Digital_Clock\obj\Debug\Digital_Clock.Properties.Resources.resources
+C:\Projects\C# Projects\Digital_Clock\Digital_Clock\obj\Debug\Digital_Clock.csproj.GenerateResource.cache
+C:\Projects\C# Projects\Digital_Clock\Digital_Clock\obj\Debug\Digital_Clock.csproj.CoreCompileInputs.cache
+C:\Projects\C# Projects\Digital_Clock\Digital_Clock\obj\Debug\Digital_Clock.exe
+C:\Projects\C# Projects\Digital_Clock\Digital_Clock\obj\Debug\Digital_Clock.pdb
